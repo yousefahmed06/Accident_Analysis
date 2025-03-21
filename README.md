@@ -24,9 +24,9 @@ This repository contains the assets, visualizations, and documentation for a Tab
 
 **Cleaned Data** [Clean Accident Data]()
 
-**Python notebook**[Accident_clean]()
+**Python notebook**[Accident_clean](https://github.com/yousefahmed06/Accident_Analysis/blob/main/Accident_clean.ipynb)
 
-**Accident Report**[report]()
+**Accident Report**[report](https://github.com/yousefahmed06/Accident_Analysis/blob/main/Accident_Data_Report.docx)
 
 
 ## 📷 Dashboard Preview
