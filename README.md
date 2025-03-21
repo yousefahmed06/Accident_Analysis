@@ -21,11 +21,16 @@ This repository contains the assets, visualizations, and documentation for a Tab
 ## 🗂️ Repository Structure
 
 **the raw data** [Accident data](https://drive.google.com/file/d/1UEb6z3e0V87poz9lDdIKhi8_yUEnQAeF/view?usp=sharing)
+
 **Cleaned Data** [Clean Accident Data]()
+
+**Python notebook**[Accident_clean]()
+
+**Accident Report**[report]()
 
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](https://public.tableau.com/shared/P43F9FSR5?:display_count=n&:origin=viz_share_link) 
+[Dashboard Preview](https://public.tableau.com/shared/P43F9FSR5?:display_count=n&:origin=viz_share_link) 
 
 
